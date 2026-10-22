@@ -1,6 +1,5 @@
-=====================================================================
+
   TARKOV NV  v1.4  -  Visual preset controller for Escape From Tarkov
-=====================================================================
 
 A modern replacement for using RivaTuner's colour tab with Tarkov.
 It does the same job (it writes the display's gamma ramp: brightness,
