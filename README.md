@@ -1,20 +1,26 @@
-# TarkovVisuals
+# TarkovNV
 
 <p align="center">
   <b>A high-performance visual enhancement and clarity utility built for Escape from Tarkov.</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/g-hostproxy/TarkovVisuals" alt="Release">
-  <img src="https://img.shields.io/github/license/g-hostproxy/TarkovVisuals" alt="License">
-  <img src="https://img.shields.io/github/downloads/g-hostproxy/TarkovVisuals/total" alt="Downloads">
+  <img src="https://img.shields.io/github/v/release/g-hostproxy/TarkovNV" alt="Release">
+  <img src="https://img.shields.io/github/license/g-hostproxy/TarkovNV" alt="License">
+  <img src="https://img.shields.io/github/downloads/g-hostproxy/TarkovNV/total" alt="Downloads">
+</p>
+
+---
+
+<p align="center">
+  <img src="Images/TarkovNVDemo.png" alt="TarkovNV Demo" width="850px">
 </p>
 
 ---
 
 ## 📌 Overview
 
-**TarkovVisuals** is a lightweight visual enhancement tool designed to improve clarity, lift shadows in dark indoor areas, and cut through map haze in *Escape from Tarkov*. Engineered for zero framerate loss and minimal system overhead, it provides custom color grading and contrast adjustments to optimize target acquisition across different maps and lighting conditions.
+**TarkovNV** is a lightweight visual enhancement tool designed to improve clarity, lift shadows in dark indoor areas, and cut through map haze in *Escape from Tarkov*. Engineered for zero framerate loss and minimal system overhead, it provides custom color grading and contrast adjustments to optimize target acquisition across different maps and lighting conditions.
 
 ---
 
@@ -53,4 +59,4 @@ To build the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/g-hostproxy/TarkovVisuals.git](https://github.com/g-hostproxy/TarkovVisuals.git)
+   git clone [https://github.com/g-hostproxy/TarkovNV.git](https://github.com/g-hostproxy/TarkovNV.git)
